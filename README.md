@@ -40,3 +40,6 @@ npm start
 ## Acknowledgments
 
 * This was a tutorial for my [Medium article](https://medium.com/p/4a56ed18e81e)
+
+## Testing Links
+* Postman collecstion https://www.getpostman.com/collections/9da9efdcaa87134d497c
